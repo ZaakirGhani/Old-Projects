@@ -1,0 +1,10 @@
+Exoplanets,Description,Type
+11 Comae Berencies b,hypothesised to look orange and red,Gas giant
+11 Ursae Minoris b,hypothesised to look red,Gas giant
+14 andromedae b,mostly gas. it has the amount of 3.559 jupiters as its mass and takes 186.8 days to go around the sun. maybe orange colour,Gas giant
+14 herculis b,"Orbits g-type star. Mass about 8.053 jupiters, 4.8 years to orbit and the colour of the planet is hypothesised to begrey blue.",Gas giant
+16 cygni b b,composed of mostly gas. takes 2.2 years to complete orbit. and mass is 1.78 jupiter.,giant gas
+18 delphini b,orbits a k-type sun which takes 2.7 years to orbit. the mass is 9.207 jupiters mass,giant gas
+17 scorpii b,orbits a k-star. mass is 4.32 jupiter. takes 1.6 years to orbit,gas giant
+24 bootis b,mass of 0.883 jupiters. takes 30.3 days to orbit.,gas giant
+1rxs j160929.1-210524 b,mass of 8 jupiters. orbits k-star. takes 6505.9 years to orbit. the colour grey blue.,gas giant
