@@ -1,0 +1,7 @@
+User = input("Enter: ")
+
+if len(User) == 8:
+	print("Correct Length")
+else:
+	print("Incorrect length")
+	
